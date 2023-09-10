@@ -1,1 +1,1 @@
-sttoped at 18:20 video
+sttoped at 46:12 video
