@@ -15,7 +15,7 @@
 					vero voluptas
 					itaque quaerat quasi veniam.</p>
 				<div class="flex items-center justify-between">
-					<YouTubeButton :href="meal.strYoutube" />
+					<YouTubeButton :href="meal.strYoutube">YouTube</YouTubeButton>
 				</div>
 
 			</div>

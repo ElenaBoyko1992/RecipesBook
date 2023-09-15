@@ -36,9 +36,8 @@
 					</template>
 				</ul>
 			</div>
-			<div>
+			<div class="mt-4">
 				<YouTubeButton :href="meal.strYoutube">YouTube</YouTubeButton>
-
 			</div>
 		</div>
 
